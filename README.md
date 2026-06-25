@@ -6,7 +6,7 @@ Currently learning **Android Development** while building **Full-Stack Web Appli
 
 ## Tech
 
-- Kotlin (Learning)
+- Flutter (Learning)
 - Java
 - JavaScript
 - TypeScript
@@ -16,6 +16,7 @@ Currently learning **Android Development** while building **Full-Stack Web Appli
 - Express.js
 - Firebase
 - MongoDB
+- postgresql
 - Git
 
 ## Currently
