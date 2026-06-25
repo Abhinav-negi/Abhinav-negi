@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Abhinav 👋
 
-<!--
-**Abhinav-negi/Abhinav-negi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from India.
 
-Here are some ideas to get you started:
+Currently learning **Android Development** while building **Full-Stack Web Applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+- Kotlin (Learning)
+- Java
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Express.js
+- Firebase
+- MongoDB
+- Git
+
+## Currently
+
+- 📱 Android Development
+- 🌐 Full-Stack Development
+- 🧠 DSA
+
+---
+
+*"Wubba Lubba Dub Dub."* 🛸
