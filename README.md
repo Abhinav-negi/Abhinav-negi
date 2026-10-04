@@ -16,7 +16,7 @@
 
 ---
 
-**CS student. Full-stack builder. Currently somewhere between `npm install` and enlightenment.**
+**IT student. Full-stack builder. Currently somewhere between `npm install` and enlightenment.**
 
 India 🇮🇳 &nbsp;·&nbsp; Building in public &nbsp;·&nbsp; Debugging in private
 
